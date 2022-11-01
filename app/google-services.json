@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037071320724",
+    "project_id": "database-aea54",
+    "storage_bucket": "database-aea54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037071320724:android:6aa24d2c590621e9d81681",
+        "android_client_info": {
+          "package_name": "com.example.tut2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037071320724-rk9rgkqmpt99mr15rv2esad33oi472iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhaM1d-T76Q_Y8KVwRJLbpMMrmxDH2Kt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037071320724-rk9rgkqmpt99mr15rv2esad33oi472iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
